@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecycleCardViews</string>
+    <string name="btn_1">Liner list</string>
+    <string name="btn_2">Grid</string>
+</resources>
